@@ -77,8 +77,8 @@ gamellast/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YourName/RoboCleaner.git
-   ```
+[   git clone https://github.com/YourName/RoboCleaner.git
+](https://github.com/White0000/524asg1.git)   ```
 
 2. Navigate to the project folder:
 
